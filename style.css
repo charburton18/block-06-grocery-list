@@ -1,0 +1,41 @@
+#myTitle {
+  margin: auto;
+  text-align: center;
+  font-size: large;
+  background-color: lightgrey;
+  width: 300px;
+  padding: 1px;
+  border: dotted 5px white;
+}
+
+.image {
+  text-align: center;
+  padding: 1%;
+}
+
+.item-type {
+  margin: auto;
+  text-align: center;
+  color: white;
+  background-color: lightgrey;
+  width: 300px;
+  padding: 1px;
+  border: dotted 5px white;
+}
+
+h3, h2, h1 {
+  background-color: grey;
+}
+
+.list {
+  display: inline-block;
+  background-color: peachpuff;
+  min-width: 200px;
+  border: solid 2px grey;
+  border-radius: 10%;
+  margin: 2%;
+}
+
+.box-of-lists {
+  text-align: center;
+}
